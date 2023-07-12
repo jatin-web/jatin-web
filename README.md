@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin-web" alt="jatin-web" /></a> </p>
 
-- 🔭 I’m currently working on **Verdant**
+- 🔭 I’m currently working as a Software Developer in **Verdant Impact**
 
 - 💬 Ask me about **Flutter, Firebase and other technologies**
 
